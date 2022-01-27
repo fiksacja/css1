@@ -1,25 +1,10 @@
-.div-1 {
+.box {
     background-color: #fea500;
     height: 100px;
-    width: 100px;
-  }
-  
-.div-2 {
-    background-color: #fea500;
-    height: 100px;
-    width: 100px;
-  }
-  
-.div-3 {
-    background-color: #fea500;
-    height: 100px;
-    width: 100px;
-  }
+    width: 100px;}
 
-.div-4 {
-    background-color: #fea500;
-    height: 100px;
-    width: 100px;
-   }
+h1 {
+  color: white;
+}
 
-body { background-color: #808080
+body { background-color: #808080}
